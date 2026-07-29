@@ -35,4 +35,4 @@ jupyter lab notebooks/gsk_antibody_molecular_design_engineer_portfolio.ipynb
 
 ## Citation
 
-Petalcorin, M.I.R. (2026). AI-Enabled Multidimensional Antibody Developability Engineering: A Lineage-Aware Synthetic Benchmark Integrating Molecular Liabilities, Predictive Modelling, and Pareto-Guided Sequence Optimisation. https://github.com/mpetalcorin/ai-antibody-developability-design
+**Petalcorin, M.I.R.** (2026). AI-Enabled Multidimensional Antibody Developability Engineering: A Lineage-Aware Synthetic Benchmark Integrating Molecular Liabilities, Predictive Modelling, and Pareto-Guided Sequence Optimisation. https://github.com/mpetalcorin/ai-antibody-developability-design
