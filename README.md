@@ -1,7 +1,8 @@
+
 # AI Antibody Developability Design
 
 A reproducible, synthetic demonstration of AI-enabled antibody developability assessment, lineage-aware predictive modelling, and multi-objective molecular engineering.
-
+<img width="1491" height="1055" alt="Antibody molecular design" src="https://github.com/user-attachments/assets/ece29107-0fe8-451a-ae95-e09be66adb57" />
 ## Repository contents
 
 - `notebooks/`: clean and executed Jupyter notebooks.
