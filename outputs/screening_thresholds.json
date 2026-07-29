@@ -1,0 +1,42 @@
+{
+  "low_expression": [
+    "expression_g_L",
+    "<",
+    0.5
+  ],
+  "low_thermal_stability": [
+    "thermal_transition_C",
+    "<",
+    64.0
+  ],
+  "high_hydrophobicity": [
+    "hic_retention_min",
+    ">",
+    12.0
+  ],
+  "high_polyspecificity": [
+    "psr_score",
+    ">",
+    0.65
+  ],
+  "high_self_association": [
+    "ac_sins_shift_nm",
+    ">",
+    9.0
+  ],
+  "attractive_interactions": [
+    "kD_mL_g",
+    "<",
+    -15.0
+  ],
+  "high_viscosity": [
+    "viscosity_150mg_mPa_s",
+    ">",
+    25.0
+  ],
+  "stress_aggregation": [
+    "sec_monomer_after_stress_pct",
+    "<",
+    90.0
+  ]
+}

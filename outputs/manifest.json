@@ -1,0 +1,14 @@
+{
+  "random_seed": 20260729,
+  "n_candidates": 720,
+  "n_parent_lineages": 180,
+  "files": {
+    "dataset": "gsk_antibody_design_outputs/synthetic_antibody_developability_dataset.csv",
+    "model_performance": "gsk_antibody_design_outputs/model_performance.csv",
+    "engineered_shortlist": "gsk_antibody_design_outputs/engineered_variant_shortlist.csv",
+    "fasta": "gsk_antibody_design_outputs/top_engineered_variant_variable_domains.fasta",
+    "thresholds": "gsk_antibody_design_outputs/screening_thresholds.json",
+    "figures_directory": "gsk_antibody_design_outputs/figures"
+  },
+  "scientific_status": "Synthetic demonstration; not experimentally validated."
+}
